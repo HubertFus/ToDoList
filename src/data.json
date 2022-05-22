@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"Witek",
+        "email":"Witek123@o2.pl",
+        "passw":"qwerty123"
+
+        
+    },
+    {
+        "id":2,
+        "name":"Admin",
+        "email":"admin@admin.com",
+        "passw":"admin123"
+        
+    }
+]

@@ -1,0 +1,106 @@
+body{
+    background: rgb(0,255,64);
+    background: linear-gradient(207deg, rgba(0,255,64,1) 0%, rgba(9,121,78,1) 34%, rgba(172,255,0,1) 100%);
+    height: 100%;
+    color: white;
+    font-size: 300%;
+    width: 100%;
+}
+*{
+    font-family: helvetica;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.Form{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 80%;
+    border-radius: 15px;
+    background-color: black;
+
+}
+h2{
+    text-align: center;
+    padding-bottom: 50px;
+    border-bottom: 1px solid white;
+}
+.Form-Group{
+    padding: 0 20px;
+}
+.inp{
+    
+    position: relative;
+    color: white;
+    margin: 30px 0 30px;
+    font-size: 60%;
+    border: none;
+    background-color: black;    
+    border-bottom: 3px solid white;
+    width: 100%;
+    
+}
+.inp:focus{
+    outline: none;
+    border-bottom: 3px solid rgb(47, 47, 248);
+}
+.buttons{
+    width: 50%;
+    height: 50px;
+    cursor: pointer;
+    background-color: #3374FF;
+    font-weight: 700;
+    color: white;
+    font-size: 70%;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.error{
+    height: 50px;
+    text-align: center;
+}
+.Omega{
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 90%;
+    border-radius: 15px;
+    background-color: black;
+
+
+}
+table{
+    left: 50%;
+}
+td{
+    word-wrap: break-word;
+    word-break: break-all;
+    white-space: pre-wrap;
+    width: 10099999999999900px;
+    border-bottom: 1px solid white;
+}
+#pap{
+    width: 90%;
+    text-align: center;
+}
+#kapp{
+    width: 90%;
+    text-align: center;
+}
+select{
+    word-wrap: break-word;
+    word-break: break-all;
+
+}
+.srodek{
+    text-align: center;
+    padding-top: 10px;
+}
+.witam{
+    width: 100%;
+}
+.jd{
+    vertical-align: center;
+}

@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "name": "Admin",
+      "id": "admin@admin.com",
+      "password": "admin123",
+      "todo": [
+        " ",
+        "asdasdas"
+      ]
+    }
+  ]
+}
