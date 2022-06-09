@@ -1,3 +1,4 @@
+Poradnik krok po kroku -> https://youtu.be/6ff6jSlpD-Y
 należy pobrać node modules i przerzucić do głównego folderu z projektem ->https://www.mediafire.com/file/zdix6w9wcbfgn3f/node_modules.7z/file
 Aby uruchomić aplikacje należy włączyć kolejną konsole i w folderze todolist wpisać
 npx json-server --port 3001 --watch db.json
