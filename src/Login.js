@@ -125,7 +125,7 @@ function Login(){
                     <form onSubmit={submitHandler}>
                         <div className="srodek">Dodaj element: </div>
                         <input type="text" className="inp" id="kapp" minLength="3" maxLength={64} onChange={e=>setEle({...ele,todo: e.target.value})} value={ele.todo} />
-                        <div className="srodek"><input type="submit" value="doddaj" className="buttons" /></div>
+                        <div className="srodek"><input type="submit" value="dodaj" className="buttons" /></div>
                     </form>
                     Usuń element</div>
                     <div>
@@ -139,7 +139,7 @@ function Login(){
 
                     </div>
                 </div>
-                <div className="srodek"><button onClick={Logout} className="buttons"  >Logout</button></div>
+                <div className="srodek"><button onClick={Logout} className="buttons"  >Wyloguj</button></div>
             </div>
 
             ):(<LoginFrom LoginL={LoginL}/>)}
